@@ -1,1 +1,1 @@
-toastLog('Hello World');
+toast('Hello, AutoX.js');
